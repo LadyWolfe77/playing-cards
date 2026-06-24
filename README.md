@@ -1,2 +1,2 @@
 # playing-cards
-fcc project
+This is a space for projects I complete from freecodecamp as practice
